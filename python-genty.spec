@@ -8,7 +8,7 @@ Summary:	Running a test with multiple data sets
 Summary(pl.UTF-8):	Uruchamianie testu z wieloma zbiorami danych
 Name:		python-genty
 Version:	1.3.2
-Release:	4
+Release:	5
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/genty/
