@@ -69,7 +69,7 @@ wielu różnych wejściach.
 
 %prep
 %setup -q -n genty-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
